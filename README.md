@@ -1,6 +1,6 @@
 # moviesyms
 
-moviesyms uses [tmdbparser]()s movie metadata to generate symlinks across these categories:
+moviesyms uses [tmdbparser](https://github.com/tilschuenemann/tmdbparser)s movie metadata to generate symlinks across these categories:
 
 - genres
 - directors
