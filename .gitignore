@@ -1,0 +1,4 @@
+PLANNING.md
+sandbox*
+__pycache__*
+.pytest_cache*

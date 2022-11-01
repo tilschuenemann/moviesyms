@@ -1,0 +1,170 @@
+crew.adult,crew.gender,crew.id,crew.known_for_department,crew.name,crew.original_name,crew.popularity,crew.profile_path,crew.credit_id,crew.department,crew.job,tmdb_id
+False,2,123,Production,Barrie M. Osborne,Barrie M. Osborne,1.91,/xWtXYk6M5NFroddcQDviLlxOnkU.jpg,5831cc6d92514162d2027340,Production,Executive Producer,603
+False,2,1091,Production,Joel Silver,Joel Silver,3.798,/5YWxIdEql8yyGWIcF1X3QPQ40u6.jpg,52fe425bc3a36847f801812f,Production,Producer,603
+False,1,1262,Production,Mali Finn,Mali Finn,3.038,,52fe425bc3a36847f8018147,Production,Casting,603
+False,2,1296,Production,Bruce Berman,Bruce Berman,3.585,,5831cd3392514162d202741f,Production,Executive Producer,603
+False,2,2080,Acting,Todd Bryant,Todd Bryant,5.846,/sauMN1jgnOhafbxMytr2x42kBdG.jpg,60e33e8c22e48000800c68b6,Crew,Stunts,603
+False,2,4671,Editing,Zach Staenberg,Zach Staenberg,1.96,,52fe425bc3a36847f8018141,Editing,Editor,603
+False,2,4949,Sound,Don Davis,Don Davis,1.765,/FUcQUEOFH18BqYAeIs8VFud1E4.jpg,52fe425bc3a36847f8018135,Sound,Original Music Composer,603
+False,2,5392,Costume & Make-Up,Michael Wilkinson,Michael Wilkinson,4.5,/5363Z5CBR7PoVjyxxnVOuifKrM5.jpg,5f29da79d8cc4a00371afcaa,Costume & Make-Up,Costume Assistant,603
+False,1,6209,Costume & Make-Up,Kym Barrett,Kym Barrett,2.533,/wphQYPxu1Jr82JrEQWtTApX7Kys.jpg,52fe425bc3a36847f801816b,Costume & Make-Up,Costume Design,603
+False,1,6411,Art,Deborah Riley,Deborah Riley,1.4,/cjhADpqdrnwB1PdDUKaBnWrIj2Q.jpg,5831d14cc3a3685ba8027740,Art,Set Designer,603
+False,2,9341,Camera,Bill Pope,Bill Pope,7.78,/kpakvuSrk1D9D8WMt5SOi4Rs2EV.jpg,52fe425bc3a36847f801813b,Camera,Director of Photography,603
+False,2,10950,Production,Erwin Stoff,Erwin Stoff,4.354,,5831cd20c3a3685b9a0275df,Production,Executive Producer,603
+False,2,8299,Production,Andrew Mason,Andrew Mason,1.102,,5831cc77c3a3685ba102b4a5,Production,Executive Producer,603
+False,1,9339,Writing,Lilly Wachowski,Lilly Wachowski,10.25,/afRagUzIMpmaA3EyKtfsY5xA9TK.jpg,571756cfc3a3687c2c000a63,Directing,Director,603
+False,1,9339,Writing,Lilly Wachowski,Lilly Wachowski,10.25,/afRagUzIMpmaA3EyKtfsY5xA9TK.jpg,5831ccfe92514162d8026200,Production,Executive Producer,603
+False,1,9339,Writing,Lilly Wachowski,Lilly Wachowski,10.25,/afRagUzIMpmaA3EyKtfsY5xA9TK.jpg,5831cbe1c3a3685bad024e78,Writing,Writer,603
+False,1,9340,Writing,Lana Wachowski,Lana Wachowski,22.149,/5KNV7YBSPTBUAIXGfIcPmbhho9w.jpg,571756c4c3a3687bc70008e9,Directing,Director,603
+False,1,9340,Writing,Lana Wachowski,Lana Wachowski,22.149,/5KNV7YBSPTBUAIXGfIcPmbhho9w.jpg,5831ccf2c3a3685bb0025cbd,Production,Executive Producer,603
+False,1,9340,Writing,Lana Wachowski,Lana Wachowski,22.149,/5KNV7YBSPTBUAIXGfIcPmbhho9w.jpg,5831cbea92514162d80260e5,Writing,Writer,603
+False,0,9342,Production,Shauna Wolifson,Shauna Wolifson,0.716,,52fe425bc3a36847f801814d,Production,Casting,603
+False,2,9343,Art,Owen Paterson,Owen Paterson,0.6,,52fe425bc3a36847f8018153,Art,Production Design,603
+False,2,9344,Art,Hugh Bateup,Hugh Bateup,1.415,,52fe425bc3a36847f8018159,Art,Art Direction,603
+False,1,9345,Art,Michelle McGahey,Michelle McGahey,1.62,,52fe425bc3a36847f801815f,Art,Art Direction,603
+False,1,9346,Art,Lisa Brennan,Lisa Brennan,1.4,,52fe425bc3a36847f8018165,Art,Set Decoration,603
+False,2,9349,Sound,Dane A. Davis,Dane A. Davis,6.428,/16RaENd5PxeXs6XE4yrnCPjg4Gz.jpg,5831cf1492514162c3026dfe,Sound,Sound Designer,603
+False,2,9349,Sound,Dane A. Davis,Dane A. Davis,6.428,/16RaENd5PxeXs6XE4yrnCPjg4Gz.jpg,5831cf1b92514162c0027381,Sound,Supervising Sound Editor,603
+False,2,9351,Sound,Zigmund Gron,Zigmund Gron,1.225,,5831d85292514162cb028f00,Sound,Music Editor,603
+False,0,9357,Crew,Glenn Boswell,Glenn Boswell,2.37,/pIsBLm6zLeMpjEkrQw4ICQgZ3OQ.jpg,5831cfcbc3a3685b9a0278bb,Crew,Stunt Coordinator,603
+False,0,9420,Art,Jules Cook,Jules Cook,3.135,/qFKAnJ89NrdGaCsbtwAuwMVQ2q9.jpg,5831d03892514162d20277d6,Art,Assistant Art Director,603
+False,0,9593,Visual Effects,Steve Courtley,Steve Courtley,0.98,,5831d409c3a3685b93025e33,Visual Effects,Special Effects Supervisor,603
+False,2,9598,Crew,Ray Anthony,Ray Anthony,1.013,,60e33d8e0716500046196768,Crew,Stunts,603
+False,2,11266,Directing,James McTeigue,James McTeigue,8.163,/8aUklN9PpswTG8DnhVAY92koRMC.jpg,5af40a81925141787a007bd0,Directing,First Assistant Director,603
+False,2,40644,Directing,Chad Stahelski,Chad Stahelski,24.684,/eRCryGwKDH4XqUlrdkERmeBWPo8.jpg,60e336dba3b5e6004588d9ef,Crew,Stunt Double,603
+False,2,18899,Directing,Yuen Woo-ping,Yuen Woo-ping,7.563,/4NJRnQGrUxqbq9tcl7cpKmd17zh.jpg,608e58787b7b4d00295d1169,Crew,Fight Choreographer,603
+False,2,113051,Sound,David Grimaldi,David Grimaldi,0.726,,5831d75492514162cb028dda,Sound,Sound Effects Editor,603
+False,2,56786,Camera,Ross Emery,Ross Emery,1.557,,60ba9ddeffd44d0079ead4b6,Camera,Second Unit Director of Photography,603
+False,2,57526,Production,Dan Cracchiolo,Dan Cracchiolo,2.366,,5831cd9292514162d8026298,Production,Co-Producer,603
+False,2,60151,Editing,Tom Costain,Tom Costain,1.825,,60ba9fb3ab6849002a7c4cbf,Editing,Assistant Editor,603
+False,0,62740,Production,Richard Mirisch,Richard Mirisch,0.656,,5831d017c3a3685bad025303,Production,Associate Producer,603
+False,2,75131,Acting,Nash Edgerton,Nash Edgerton,4.564,/4APzupXhj00RkLJyjzYTkvk47Dw.jpg,60e33d74258823005d7e809f,Crew,Stunt Double,603
+False,2,87811,Acting,Scott McLean,Scott McLean,2.325,,60e3420dcaa5080048e8b887,Crew,Stunts,603
+False,1,88435,Production,Carol Hughes,Carol Hughes,0.6,,5831cef0c3a3685bad0251b0,Production,Unit Production Manager,603
+False,1,88435,Production,Carol Hughes,Carol Hughes,0.6,,5831d00bc3a3685b9d028c76,Production,Associate Producer,603
+False,0,79377,Acting,Richard Boué,Richard Boué,1.214,,60e33dfea3b5e6005d8cb5d7,Crew,Stunts,603
+False,0,91088,Sound,Frank Long,Frank Long,0.6,,60e35802a3b5e600743b4101,Sound,Assistant Sound Editor,603
+False,0,91091,Sound,David McRell,David McRell,0.6,,60e357d8caa508002efed800,Sound,Assistant Sound Editor,603
+False,0,91093,Sound,Charles W. Ritter,Charles W. Ritter,0.6,,5af406920e0a26396e00791f,Sound,Dialogue Editor,603
+False,2,105108,Visual Effects,John Gaeta,John Gaeta,3.039,/kUzIrTvPr8g4vbVXxDd36IgfuGR.jpg,5831ce5cc3a3685bb0025e2d,Visual Effects,Visual Effects Supervisor,603
+False,1,143915,Sound,Julia Evershade,Julia Evershade,1.07,,5831d72dc3a3685b960231d5,Sound,Sound Effects Editor,603
+False,2,159112,Editing,David Orr,David Orr,1.463,,60baa06ea410c8005815dffc,Editing,Color Timer,603
+False,0,185440,Acting,Chris Mitchell,Chris Mitchell,0.6,,60e344d826dac1004557dee0,Crew,Stunts,603
+False,0,208282,Crew,Shea Adams,Shea Adams,1.96,,60e33d1522e480002dee2a8b,Crew,Stunt Double,603
+False,2,213087,Acting,Warwick Young,Warwick Young,1.96,/3JBwvYRWuA0TS40uqY4EYMS24X0.jpg,60e340e2b76cbb005dfbfd19,Crew,Stunts,603
+False,0,440902,Acting,Steve Morris,Steve Morris,1.233,,60e33fccb76cbb0073e0341a,Crew,Stunts,603
+False,0,1110476,Crew,Peter Collias,Peter Collias,0.98,,60e35b7d6bdec3004601cf16,Crew,Scenic Artist,603
+False,2,1116937,Sound,John Roesch,John Roesch,3.003,,60e3591f0716500046199fb6,Sound,Foley Artist,603
+False,0,1141636,Lighting,Stephen Johnstone,Stephen Johnstone,0.6,,60ba9e156c84d600404f08fb,Lighting,Rigging Gaffer,603
+False,0,1153775,Directing,Colin Fletcher,Colin Fletcher,0.98,,5af40a5892514179fc006bd8,Directing,First Assistant Director,603
+False,2,1209256,Acting,Nigel Harbach,Nigel Harbach,3.709,,60e33cf5258823005d7e7f66,Crew,Stunt Double,603
+False,2,1265143,Crew,Tony Lynch,Tony Lynch,0.98,,60e3433e84591c0045c31ecf,Crew,Stunts,603
+False,0,1338152,Sound,Eric Lindemann,Eric Lindemann,1.116,,5831d743c3a3685bad025a34,Sound,Sound Effects Editor,603
+False,2,1341854,Sound,David E. Campbell,David E. Campbell,2.217,,5831d7e792514162c0027d28,Sound,Sound Re-Recording Mixer,603
+False,1,1341856,Sound,Hilda Hodges,Hilda Hodges,1.4,,60e3592d8805510074df4b63,Sound,Foley Artist,603
+False,2,1341858,Sound,Gregg Rudloff,Gregg Rudloff,3.04,,5831d7a592514162cb028e28,Sound,Sound Re-Recording Mixer,603
+False,0,1342626,Sound,John T. Reitz,John T. Reitz,1.653,,5831d799c3a3685b96023249,Sound,Sound Re-Recording Mixer,603
+False,1,1378225,Sound,Susan Dudeck,Susan Dudeck,1.027,,5af40667c3a3682160007799,Sound,Dialogue Editor,603
+False,0,1380477,Sound,Barbara Delpuech,Barbara Delpuech,0.84,,60e3502627ff9900470be43d,Sound,Assistant Sound Editor,603
+False,2,1391711,Art,Jacinta Leong,Jacinta Leong,0.744,,5831d0d592514162c9028394,Art,Set Designer,603
+False,0,1392669,Art,Fiona Scott,Fiona Scott,0.84,,5831d041c3a3685b9a02794c,Art,Assistant Art Director,603
+False,0,1392681,Art,Sarah Light,Sarah Light,0.6,,5831d0c892514162d202786e,Art,Set Designer,603
+False,0,1392692,Art,Judith Harvey,Judith Harvey,0.98,,5831d0fa92514162c90283c1,Art,Set Designer,603
+False,2,1392718,Camera,Jasin Boland,Jasin Boland,0.959,,5831d21092514162c302714f,Camera,Still Photographer,603
+False,0,1392719,Camera,Robert Agganis,Robert Agganis,0.6,,5831d1dfc3a3685b93025c29,Camera,Camera Operator,603
+False,0,1392719,Camera,Robert Agganis,Robert Agganis,0.6,,5831d1e5c3a3685b93025c31,Camera,Steadicam Operator,603
+False,0,1392722,Lighting,Reg Garside,Reg Garside,0.6,,5831d3d7c3a3685b93025e1b,Lighting,Gaffer,603
+False,0,1401695,Crew,Thomas Van Koeverden,Thomas Van Koeverden,0.6,,60e34bbe27ff990074dc57c3,Crew,Special Effects,603
+False,0,1403724,Lighting,Miles Jones,Miles Jones,0.6,,60ba9e2b3d7454002a537c99,Lighting,Rigging Gaffer,603
+False,0,1410562,Editing,Basia Ozerski,Basia Ozerski,0.84,,60baa085e295b40057aca52e,Editing,Assistant Editor,603
+False,0,1412758,Crew,Fiona Searson,Fiona Searson,0.625,,5831d8e992514162d8026ebe,Production,Publicist,603
+False,0,1418264,Costume & Make-Up,Cheryl Williams,Cheryl Williams,0.6,,5831d4e2c3a3685ba8027aec,Costume & Make-Up,Hairstylist,603
+False,0,1418270,Art,Tony Williams,Tony Williams,0.648,,5831d079c3a3685ba8027667,Art,Assistant Art Director,603
+False,1,1424126,Sound,Carolyn Tapp,Carolyn Tapp,1.4,,60e358f8caa508002efeda63,Sound,Foley Mixer,603
+False,0,1431514,Editing,Peter Skarratt,Peter Skarratt,1.4,,60baa0a433a533007907f93b,Editing,First Assistant Editor,603
+False,0,1434214,Crew,Kate Crossley,Kate Crossley,1.104,,5831d719c3a3685bb0026755,Crew,Visual Effects Editor,603
+False,2,1438657,Crew,Johnny Hallyday,Johnny Hallyday,0.6,,60e342c727ff99005df9d675,Crew,Stunts,603
+False,0,1452260,Crew,Harry Dakanalis,Harry Dakanalis,0.6,,60e33ece22e480004973da2f,Crew,Stunts,603
+False,0,1454928,Costume & Make-Up,Nikki Gooley,Nikki Gooley,1.094,,60e34d3c5e14e5005c011d11,Costume & Make-Up,Key Makeup Artist,603
+False,2,1454936,Visual Effects,Brian Cox,Brian Cox,0.983,,5831d457c3a3685bb0026404,Visual Effects,Special Effects Supervisor,603
+False,1,1461371,Sound,Mary Jo Lang,Mary Jo Lang,1.014,,60e358d91e9225002cc81613,Sound,Foley Mixer,603
+False,0,1470969,Art,Lon Lucini,Lon Lucini,0.6,,5af406af0e0a26394b006a49,Art,Property Master,603
+False,0,1470982,Directing,Victoria Sullivan,Victoria Sullivan,1.094,,5831d186c3a3685ba102ba8f,Directing,Script Supervisor,603
+False,1,1476975,Crew,Annette van Moorsel,Annette van Moorsel,1.027,,60e3376427ff990074dc291e,Crew,Stunt Double,603
+False,0,1478435,Crew,Alex Kuzelicki,Alex Kuzelicki,1.29,,60e341b85e14e5005c0106fd,Crew,Stunts,603
+False,0,1536539,Costume & Make-Up,Deborah Taylor,Deborah Taylor,0.609,,5831d4b6c3a3685ba102be38,Costume & Make-Up,Makeup Artist,603
+False,0,1536898,Crew,John Bowring,John Bowring,1.384,,60baa1dad48cee0040dd7327,Crew,Armorer,603
+False,0,1537143,Sound,Lori L. Eschler,Lori L. Eschler,1.614,,5831d82592514162cf027fc6,Sound,Music Editor,603
+False,1,1546585,Sound,Nancy Barker,Nancy Barker,1.4,,60e34fd45e14e5005c01217c,Sound,First Assistant Sound Editor,603
+False,0,1554365,Editing,Catherine Chase,Catherine Chase,1.215,,60e34ea8071650007e488484,Editing,First Assistant Editor,603
+False,0,1564735,Editing,Noelleen Westcombe,Noelleen Westcombe,0.6,,60e34efab76cbb0073e057f0,Editing,First Assistant Editor,603
+False,0,1569080,Production,Peter Lawless,Peter Lawless,0.828,,5831d8b0c3a3685ba8027f26,Production,Location Manager,603
+False,0,1569399,Visual Effects,Lloyd Finnemore,Lloyd Finnemore,0.6,,60e34a0284591c0074b3d132,Crew,Special Effects,603
+False,2,1575003,Editing,John Lee,John Lee,0.706,,60baa055e295b4007910fc1c,Editing,Assistant Editor,603
+False,0,1575727,Art,Tim Ferrier,Tim Ferrier,0.6,,5831d15ac3a3685ba802774d,Art,Set Decoration,603
+False,1,1575759,Editing,Jenny Hicks,Jenny Hicks,1.788,,60baa01ee295b4002ae663fd,Editing,Assistant Editor,603
+False,0,1578018,Camera,David Williamson,David Williamson,0.6,,5831d1ce92514162cf0278f4,Camera,Camera Operator,603
+False,0,1584259,Production,Grayden Le Breton,Grayden Le Breton,0.6,,60e35d1c1e9225005dfca503,Production,Assistant Unit Manager,603
+False,0,1585725,Camera,David Elmes,David Elmes,1.094,,60ba9dbc41aac40029a2bde5,Camera,"First Assistant ""A"" Camera",603
+False,0,1619685,Costume & Make-Up,Lyn Askew,Lyn Askew,0.6,,5831d6e8c3a3685b9a028078,Costume & Make-Up,Costume Supervisor,603
+False,2,1634439,Crew,Brett Praed,Brett Praed,7.077,/pz1lgVP2VeMnNJ672TVR83L8Rky.jpg,60e34176caa5080048e8b74d,Crew,Stunts,603
+False,2,1640477,Crew,Brian Ellison,Brian Ellison,1.4,,60e341e627ff990074dc40c2,Crew,Stunts,603
+False,0,1677824,Sound,Valerie Davidson,Valerie Davidson,0.683,,60e34f8c4ca6760075045fbc,Sound,Foley Editor,603
+False,0,1711544,Art,Trish Foreman,Trish Foreman,0.6,,5831d09fc3a3685ba102b98c,Art,Art Department Coordinator,603
+False,0,1711545,Art,Godric Cole,Godric Cole,0.98,,5831d0eb92514162cb028661,Art,Set Designer,603
+False,0,1711546,Art,Andrew Powell,Andrew Powell,0.6,,5831d134c3a3685bb002610c,Art,Set Designer,603
+False,1,1711547,Art,Marta McElroy,Marta McElroy,0.6,,5831d173c3a3685ba102ba75,Art,Set Decoration,603
+False,2,1711549,Sound,David Lee,David Lee,1.96,,5af402fcc3a368214800a295,Sound,Sound Recordist,603
+False,0,1711550,Sound,Jack Friedman,Jack Friedman,0.6,,5831d372c3a3685b96022e35,Sound,Boom Operator,603
+False,0,1711551,Sound,Gerry Nucifora,Gerry Nucifora,1.004,,5831d386c3a3685bb0026365,Sound,Boom Operator,603
+False,0,1711553,Crew,Robina Osbourne,Robina Osbourne,0.6,,5831d474c3a3685bad025731,Crew,Special Effects Coordinator,603
+False,0,1711577,Production,Megan Worthy,Megan Worthy,0.6,,5831d8c192514162cf02806d,Production,Production Coordinator,603
+False,0,1724280,Visual Effects,Rodney Burke,Rodney Burke,0.84,,60e347d4db154f0047000eff,Crew,Special Effects,603
+False,2,1733132,Editing,Mo Henry,Mo Henry,1.96,,60ba9fff09191b0057e9cf38,Editing,Negative Cutter,603
+False,0,1746428,Camera,Mal Booth,Mal Booth,1.4,,60ba9ce433a5330057ca490a,Camera,Dolly Grip,603
+False,0,1838260,Costume & Make-Up,Andrea Hood,Andrea Hood,0.98,,60e34dd527ff990074dc5c97,Costume & Make-Up,Costumer,603
+False,0,1871644,Crew,Paul Gorrie,Paul Gorrie,0.98,,60e34ac44ca676002de17ef2,Crew,Special Effects,603
+False,0,1871648,Crew,Walter Van Veenendaal,Walter Van Veenendaal,0.6,,60e34cc9b3f6f5005c551e65,Crew,Special Effects,603
+False,0,1871651,Crew,David Young,David Young,0.6,,60e348d422e4800060307a04,Crew,Special Effects,603
+False,0,1871655,Crew,Greg Blandy,Greg Blandy,1.38,,60e33da55e14e5007343c2e5,Crew,Stunts,603
+False,0,1871664,Crew,Dar Davies,Dar Davies,0.986,,60e33f09b76cbb0073e03211,Crew,Stunts,603
+False,0,1871668,Crew,Phil Meacham,Phil Meacham,0.6,,60e340bfa3b5e600743b0b92,Crew,Stunts,603
+False,2,1871675,Crew,Darko Tuscan,Darko Tuscan,1.96,/3xHKCLtLa0HXBV9p9hCESjgg3Th.jpg,60e336f8b3f6f50045bfd01d,Crew,Stunt Double,603
+False,2,1871676,Crew,Mick Van Moorsel,Mick Van Moorsel,1.4,/hJ61bVoaI7S50I3nUAhrg0vZUv0.jpg,60e3437507165000461974c6,Crew,Stunts,603
+False,0,1878558,Crew,Suzanne Celeste,Suzanne Celeste,0.84,,60e35a371e9225007ed67c77,Crew,Dialect Coach,603
+False,0,1900403,Camera,Michael Vivian,Michael Vivian,0.6,,60ba9f34b04228006da11448,Camera,Dolly Grip,603
+False,0,1925619,Visual Effects,Lou Stefanel,Lou Stefanel,0.6,,60e34c9c5e14e5002c03d12d,Crew,Special Effects,603
+False,0,1951551,Camera,Jay Munro,Jay Munro,1.38,,60ba9ebff90b19006d502a21,Camera,Key Grip,603
+False,2,1994224,Sound,Thomas J. O'Connell,Thomas J. O'Connell,0.756,,60e358ae25882300740bb86a,Sound,ADR Mixer,603
+False,0,2004144,Camera,Aron Walker,Aron Walker,1.38,,60ba9f54a410c80041dc2766,Camera,Dolly Grip,603
+False,2,2012062,Directing,Tom Read,Tom Read,0.6,,60e3351ccaa508002efe91ad,Directing,Second Assistant Director,603
+False,0,2085974,Camera,Ray Brown,Ray Brown,0.6,,60ba9d05e295b40057aca262,Camera,Key Grip,603
+False,0,2088892,Lighting,Colin Wyatt,Colin Wyatt,1.15,,60ba9f7333a5330029927ef9,Lighting,Rigging Gaffer,603
+False,0,2178903,Crew,Pauline Grebert,Pauline Grebert,0.6,,60e34b00b3f6f50045bff9f9,Crew,Special Effects,603
+False,0,2213484,Crew,Arran Gordon,Arran Gordon,0.6,,60e349271e9225005dfc7914,Crew,Special Effects,603
+False,0,2249021,Directing,Noni Roy,Noni Roy,0.6,,60e334db83ee670074beb253,Directing,Second Assistant Director,603
+False,0,2273992,Directing,Paul Sullivan,Paul Sullivan,0.828,,60e3364fb76cbb005dfbe770,Directing,Third Assistant Director,603
+False,0,2470829,Lighting,Paul Cumming,Paul Cumming,0.6,,60ba9d8db0422800572ec463,Lighting,Rigging Gaffer,603
+False,0,2503661,Crew,Marijke Rikki van Gyen,Marijke Rikki van Gyen,0.981,,60e3402a5e14e50046cb1177,Crew,Stunts,603
+False,0,2525583,Crew,Reece Robinson,Reece Robinson,0.6,,60e34b7acaa50800801c4582,Crew,Special Effects,603
+False,0,2543350,Crew,Ray Fowler,Ray Fowler,1.38,,60e34a5dcaa50800801c42e8,Crew,Special Effects,603
+False,0,2554914,Crew,Gillian Statham,Gillian Statham,0.98,,60e33d60b76cbb004614f494,Crew,Stunt Double,603
+False,0,2561715,Crew,Lou Horvath,Lou Horvath,0.6,,60e34306b3f6f50072f451af,Crew,Stunts,603
+False,1,2561720,Crew,Bernadette Van Gyen,Bernadette Van Gyen,0.6,,60e3406a5e14e5007343ca5d,Crew,Stunts,603
+False,0,2570412,Production,Marge Rowland,Marge Rowland,0.6,,60e3596c9974ee0026bb11d0,Production,Production Accountant,603
+False,0,2641109,Directing,Toby Pease,Toby Pease,1.217,,60e35c1a5e14e500734404eb,Directing,Second Unit First Assistant Director,603
+False,0,2643065,Lighting,Paul Moyes,Paul Moyes,0.6,,60ba9eaaffd44d00581611e7,Lighting,Rigging Gaffer,603
+False,0,2649577,Crew,Brit Sooby,Brit Sooby,0.6,,60e340845e14e5002c03b842,Crew,Stunts,603
+False,0,2749496,Acting,Sotiri Sotiropoulos,Sotiri Sotiropoulos,1.017,,60e33fee5e14e50046cb10ce,Crew,Stunts,603
+False,0,2753496,Crew,Nigel King,Nigel King,0.6,,60e33faedb154f0047000072,Crew,Stunts,603
+False,0,2753700,Crew,Bob Bowles,Bob Bowles,0.6,,60e33d3622e480002dee2ac2,Crew,Stunt Double,603
+False,0,2930156,Camera,Adrien Seffrin,Adrien Seffrin,0.828,,60ba9ee933a5330057ca4b37,Camera,Second Assistant Camera,603
+False,0,2973515,Camera,Craig Bryant,Craig Bryant,0.6,,60ba9d473acd20006da47ab2,Lighting,Rigging Gaffer,603
+False,0,3113961,Art,Jon Stiles,Jon Stiles,0.6,,60e347565e14e5007343d8a9,Art,Standby Painter,603
+False,0,3113962,Art,Tony Piliotis,Tony Piliotis,0.6,,60e347078805510074df2572,Art,Standby Painter,603
+False,0,3113979,Lighting,Ken Talbot,Ken Talbot,0.6,,60ba9f0aa410c8005815df1a,Lighting,Rigging Gaffer,603
+False,0,3114019,Visual Effects,David Pride,David Pride,0.6,,60e34817b3f6f5005c5512be,Crew,Special Effects,603
+False,0,3114292,Lighting,David Hird,David Hird,0.6,,60ba9df6614c6d006e240a4d,Lighting,Rigging Grip,603
+False,0,3114294,Camera,Greg King,Greg King,0.98,,60ba9e833d7454002a537ce8,Camera,Dolly Grip,603
+False,0,3114295,Lighting,Chris Loveday,Chris Loveday,1.4,,60ba9e9bd48cee0057a0d28c,Lighting,Rigging Gaffer,603
+False,2,3326242,Art,Fletcher Moules,Fletcher Moules,0.6,/bCXkOXJTDEwuOOdVzxfgvrTst75.jpg,633eeeb1a4af8f007d1af3b8,Art,Props,603
