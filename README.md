@@ -1,10 +1,24 @@
 # moviesyms
 
-moviesyms uses [tmdbparser](https://github.com/tilschuenemann/tmdbparser)s movie metadata to generate symlinks across these categories:
+moviesyms uses [movieparse](https://github.com/tilschuenemann/movieparse)s movie metadata to generate symlinks across these categories:
 
+- production countries
 - genres
 - directors
-- production countries.
+- spoken languages
+- runtimes
+- decades
+
+Additionally you can supply a Letterboxd diary export to generate these categories:
+
+- rating
+- last seen in (year)
+
+# Installation
+
+tbd.
+
+# Usage
 
 My movie are all in one folder, every movie has its own subfolder.
 
@@ -41,14 +55,6 @@ output_folder/
         William Greaves/
             -> my_movies/1968 Symbiopsychotaxiplasm
 ```
-
-# Installation
-
-tbd.
-
-# Usage
-
-tbd.
 
 # Background
 
